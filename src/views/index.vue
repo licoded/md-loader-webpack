@@ -1,11 +1,9 @@
 <template>
-  <div>
-    <router-view/>
-  </div>
+  <div>Hello, Vue!</div>
 </template>
 
 <script>
 export default{
-  name: 'App',
+  name: 'Index',
 };
 </script>

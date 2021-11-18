@@ -30,4 +30,9 @@ module.exports = {
       template: 'public/index.html'
     }),
   ],
+  resolve: {
+    alias: {
+        vue: 'vue/dist/vue.js'
+    },
+},
 };
